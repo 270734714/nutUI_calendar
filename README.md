@@ -6,6 +6,9 @@
 ## Build Setup
 
 ``` bash
+# npm install nutui
+npm i @nutui/nutui -S
+
 # install dependencies
 npm install
 
